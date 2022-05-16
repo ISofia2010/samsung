@@ -36,3 +36,7 @@ footer p{
     float: right;  
     margin:0 0 1em 1em ;  
 }
+main img{
+    height:170px ;
+    width: 200px;
+}
